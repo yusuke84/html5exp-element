@@ -27,8 +27,8 @@ polymer-allはsubmodule構成なので全て取り込みを行ってください
 ```html
 <html5exp scale bgcolor fontcolor fontsize>文字列</html5exp>
 ```
-* 文字列 : ロゴの下部に表示させたい文字列
-* scale : 表示されるロゴのサイズ / 1%〜100% / 省略時は100%
-* bgcolor : 背景色 / 省略時は透過
-* fontcolor : 文字カラー / 省略時は黒
-* fontsize : 文字サイズ / 省略時は1.5em
+  * 文字列 : ロゴの下部に表示させたい文字列
+  * scale : 表示されるロゴのサイズ / 1%〜100% / 省略時は100%
+  * bgcolor : 背景色 / 省略時は透過
+  * fontcolor : 文字カラー / 省略時は黒
+  * fontsize : 文字サイズ / 省略時は1.5em
