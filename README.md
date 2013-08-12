@@ -2,10 +2,10 @@
 
 ### 使い方
 
-1. ソースコードをcloneしてください。  
+1.ソースコードをcloneしてください。
 polymer-allはsubmodule構成なので全て取り込みを行ってください。
 
-2. htmlを作成します。  
+2.htmlを作成します。
 サンプルは以下の通りです。
 
 ```html
@@ -22,7 +22,7 @@ polymer-allはsubmodule構成なので全て取り込みを行ってください
 </html>
 ```
 
-3. <html5exp>タグの使い方
+3.<html5exp>タグの使い方
 
 ```html
 <html5exp scale bgcolor fontcolor fontsize>文字列</html5exp>
