@@ -1,4 +1,4 @@
-<polymer-element name="html5exp" attributes="scale bgcolor fontcolor">
+<polymer-element name="html5exp" attributes="scale bgcolor fontcolor fontsize">
     <template>
         <style>
             #base {
@@ -24,7 +24,7 @@
         </style>
         <section id="base" style="width: {{scale}};background-color: {{bgcolor}};">
             <img id="logo" alt="&lt;html5exp&gt;">
-            <p style="color: {{fontcolor}}"><content></content></p>
+            <p style="color: {{fontcolor}};font-size: {{fontsize}}"><content></content></p>
         </section>
     </template>
     <script>
